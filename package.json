@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with whitelist, find, and snipe commands",
+  "main": "index.js",
+  "author": "Discorda bot",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}
